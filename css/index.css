@@ -1,0 +1,21 @@
+.blue {
+    color:#2196F3;
+}
+.black{
+    color:black;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(21, 21, 21);
+}
+h3 {
+    color: rgb(21, 21, 21)
+}
+p {
+    color: rgb(75,75,75);
+}
+ul {
+    list-style: none;
+}
