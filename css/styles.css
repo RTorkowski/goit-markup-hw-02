@@ -21,6 +21,7 @@ a:hover, a:focus {
   color: rgb(75, 75, 75);
   text-decoration: none;
   list-style: none;
+  ;
 }
 
 .nav-style-footer {
@@ -38,8 +39,10 @@ a:hover, a:focus {
 .baton-style {
   list-style: none;
 }
-.baton-style:hover{
-    color: #2196f3;
+
+.baton:hover {
+background-color: #2196f3;
+color: white;
 }
 
 .image-style {
@@ -55,4 +58,9 @@ a:hover, a:focus {
 
 .adress {
   color: white;
+}
+
+.heading{
+    color:white;
+    background-color: #2F303A;
 }
