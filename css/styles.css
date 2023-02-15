@@ -6,10 +6,13 @@
   list-style: none;
 }
 
-.lorem-style{
+.lorem-style-1{
   color:rgb(75, 75, 75)
 }
 
+.lorem-style-2{
+  color: rgb(21, 21, 21);
+}
 
 .logo {
   color: black;
