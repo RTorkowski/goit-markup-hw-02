@@ -1,3 +1,16 @@
+.body-style{
+  font-family: "Roboto", sans-serif;
+}
+
+.lorem-list{
+  list-style: none;
+}
+
+.lorem-style{
+  color:rgb(75, 75, 75)
+}
+
+
 .logo {
   color: black;
   font-family: "Raleway";
